@@ -2,6 +2,10 @@
 
 Catalan and German tandem-learning book, created with the help of Claude Code.
 
+> **Building the book?** The content is modular: one Markdown file per lesson,
+> assembled via a manifest into `build/CatGer.pdf`. Run `npm install` once, then
+> `npm run build`. To add lessons or blocks, see **[HOWTO.md](HOWTO.md)**.
+
 ## Vision
 
 This project is a bilingual learning book for two people who want to learn each other’s language through daily tandem practice:

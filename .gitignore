@@ -1,0 +1,10 @@
+# Build output (generated from content/ + book.config.json)
+/build/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+Thumbs.db
+.DS_Store

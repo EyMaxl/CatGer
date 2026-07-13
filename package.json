@@ -1,0 +1,17 @@
+{
+  "name": "catger",
+  "version": "1.0.0",
+  "description": "CatGer — a bilingual German/Catalan tandem-learning book with a modular build system.",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "build:md": "node tools/build.mjs --no-pdf",
+    "new:lesson": "node tools/new-lesson.mjs",
+    "new:block": "node tools/new-block.mjs",
+    "split": "node tools/split.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}

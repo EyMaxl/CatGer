@@ -1,0 +1,71 @@
+{
+  "title": "CatGer",
+  "subtitle": "Deutsch ↔ Català — Tandem-Lernbuch · Llibre de tàndem",
+  "languages": [
+    "Deutsch",
+    "Català"
+  ],
+  "front": [
+    "content/front/01-title.md",
+    "content/front/02-intro.md",
+    "content/front/03-how-to-use.md"
+  ],
+  "blocks": [
+    {
+      "id": "block-1",
+      "title": "Block 1 · Bloc 1: Alltag & Zuhause · El dia a dia i la llar",
+      "dir": "content/blocks/block-1-alltag-zuhause",
+      "intro": "_block.md",
+      "lessons": [
+        "day-01-begruessung-vorstellung.md",
+        "day-02-die-wohnung.md",
+        "day-03-tagesablauf.md",
+        "day-04-hausarbeit.md",
+        "day-05-zahlen-uhrzeit-termine.md",
+        "spieltag-1.md"
+      ]
+    },
+    {
+      "id": "block-2",
+      "title": "Block 2 · Bloc 2: Essen & Ausgehen · Menjar i sortir",
+      "dir": "content/blocks/block-2-essen-ausgehen",
+      "intro": "_block.md",
+      "lessons": [
+        "day-06-lebensmittel-einkaufen.md",
+        "day-07-kochen-zu-hause.md",
+        "day-08-im-restaurant.md",
+        "day-09-cafe-bar.md",
+        "day-10-lieblingsessen-geschmack.md",
+        "spieltag-2.md"
+      ]
+    },
+    {
+      "id": "block-3",
+      "title": "Block 3 · Bloc 3: Reisen & Unterwegs · Viatjar i de camí",
+      "dir": "content/blocks/block-3-reisen-unterwegs",
+      "intro": "_block.md",
+      "lessons": [
+        "day-11-verkehrsmittel.md",
+        "day-12-nach-dem-weg-fragen.md",
+        "day-13-im-hotel.md",
+        "day-14-das-wetter.md",
+        "day-15-urlaubsplaene.md",
+        "spieltag-3.md"
+      ]
+    },
+    {
+      "id": "block-4",
+      "title": "Block 4 · Bloc 4: Gefühle & Beziehung · Sentiments i relació",
+      "dir": "content/blocks/block-4-gefuehle-beziehung",
+      "intro": "_block.md",
+      "lessons": [
+        "day-16-gefuehle.md",
+        "day-17-komplimente-zuneigung.md",
+        "day-18-streiten-versoehnen.md",
+        "day-19-traeume-zukunft.md",
+        "day-20-erinnerungen.md",
+        "spieltag-4.md"
+      ]
+    }
+  ]
+}

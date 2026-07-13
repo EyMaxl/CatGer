@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Café &amp; Bar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef2ff"/>
+      <stop offset="1" stop-color="#fce7f3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#g)"/>
+  <rect x="12" y="12" width="1176" height="396" fill="none" stroke="#c7d2fe" stroke-width="3" stroke-dasharray="12 10" rx="18"/>
+  <text x="600" y="196" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#3730a3">Café &amp; Bar</text>
+  <text x="600" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#9333ea">Tag · Dia 9</text>
+  <text x="600" y="320" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" fill="#6b7280">Bild folgt · Imatge a venir</text>
+</svg>
